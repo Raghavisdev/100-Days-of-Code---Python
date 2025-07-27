@@ -57,18 +57,6 @@ This repo covers:
 
 # 🧠 Day 3 - Python Basics: Conditionals (`if`, `elif`, `else`), Comparisons & Logic
 
-This repo covers:
-
-- ✅ `if`, `else`, and `elif` statements
-- ✅ Comparison operators (`==`, `!=`, `<`, `>`, `<=`, `>=`)
-- ✅ Logical operators (`and`, `or`, `not`)
-- ✅ Nested conditionals and decision trees
-
-
-# 🧠 Day 3 - Python Basics: Conditionals (`if`, `elif`, `else`), Comparisons & Logic
-
-This repo covers:
-
 - ✅ `if`, `else`, and `elif` statements
 - ✅ Comparison operators (`==`, `!=`, `<`, `>`, `<=`, `>=`)
 - ✅ Logical operators (`and`, `or`, `not`)
@@ -86,8 +74,7 @@ Operator	           Meaning Example
 >=	  Greater or equal	   a >= b
 <=	   Less or equal	   a <= b
 
-🔸 Logical Operators
-Used to combine multiple conditions:
+🔸 Logical Operators Used to combine multiple conditions:
 
 Operator	                             Description Example
 
