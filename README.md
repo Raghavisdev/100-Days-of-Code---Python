@@ -55,5 +55,42 @@ This repo covers:
 
 ---
 
-🚀 *Next: Sets, Functions, Loops and Conditions (Day 3...)*
+# 🧠 Day 3 - Python Basics: Conditionals (`if`, `elif`, `else`), Comparisons & Logic
 
+This repo covers:
+
+- ✅ `if`, `else`, and `elif` statements
+- ✅ Comparison operators (`==`, `!=`, `<`, `>`, `<=`, `>=`)
+- ✅ Logical operators (`and`, `or`, `not`)
+- ✅ Nested conditionals and decision trees
+
+
+# 🧠 Day 3 - Python Basics: Conditionals (`if`, `elif`, `else`), Comparisons & Logic
+
+This repo covers:
+
+- ✅ `if`, `else`, and `elif` statements
+- ✅ Comparison operators (`==`, `!=`, `<`, `>`, `<=`, `>=`)
+- ✅ Logical operators (`and`, `or`, `not`)
+- ✅ Nested conditionals and decision trees
+
+## 🔸 `if`, `elif`, `else`
+- Used to make decisions in code.
+- Checks whether a condition is **True**, and executes a block accordingly.
+
+Operator	           Meaning Example
+==	     Equal to	       a == b
+!=	   Not equal to	       a != b
+>	   Greater than	       a > b
+<	    Less than	       a < b
+>=	  Greater or equal	   a >= b
+<=	   Less or equal	   a <= b
+
+🔸 Logical Operators
+Used to combine multiple conditions:
+
+Operator	                             Description Example
+
+and	       True if both are true	     age > 18 and has_ID
+or	    True if at least one is true	age > 18 or with_guardian
+not	      Inverts the condition	not          is_blocked
