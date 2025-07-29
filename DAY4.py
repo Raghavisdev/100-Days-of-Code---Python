@@ -110,4 +110,4 @@ students = {"Alice": 85, "Bob": 90, "Charlie": 78}
 for name, score in students.items():
     print(f"{name} scored {score}")
 
-# End of Day 4 examples
+# End of Day 4 exampleS
