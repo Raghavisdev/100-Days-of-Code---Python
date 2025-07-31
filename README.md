@@ -82,7 +82,7 @@ and	       True if both are true	     age > 18 and has_ID
 or	    True if at least one is true	age > 18 or with_guardian
 not	      Inverts the condition	not          is_blocked
 
-## Day 4 - Mastering Python Conditionals: if, elif, else
+# Day 4 - Mastering Python Conditionals: if, elif, else
 
 Control flow is what makes your code intelligent — today we dove deep into conditionals, the very heart of decision-making in Python.
 
@@ -135,7 +135,7 @@ and / or / not	Make conditions smarter & realistic
 Without conditionals, your program is just a set of static instructions. With them? It becomes adaptive, reactive, intelligent.
 
 
-📘 Day 5 - Python Functions: From Basics to Advanced 🚀
+# Day 5 - Python Functions: From Basics to Advanced 🚀
 This repo covers all the important concepts of Python functions through easy-to-understand examples.
 
 🔸 What You Will Learn
@@ -161,3 +161,40 @@ Lambda function	lambda x: x * 2	Defines a small, anonymous function in one line.
 *args	def total(*nums):	Accepts multiple positional arguments as a tuple.
 **kwargs	def info(**data):	Accepts multiple keyword arguments as a dictionary.
 Scope	global x	Refers to a variable outside the function (global scope).
+
+
+# Day 6: Object-Oriented Programming (OOPs) in Python
+
+Welcome to Day 6 of my #100DaysOfPython journey!
+Today was all about mastering OOPs — the backbone of scalable, reusable code design.
+
+🧠 Concepts Covered
+Concept	Description
+🐶 Basic Class & Method	Created simple classes like Dog with attributes and methods
+🏎️ Class vs Instance Variables	Learned the difference between class-level (wheels) and instance-level (brand) data
+🐱 Inheritance	Reused functionality from parent (Animal) in child (Cat) classes
+🔄 super() Keyword	Used to call parent class constructor when extending functionality
+🔐 Encapsulation	Made variables private (e.g., __balance) to protect sensitive data
+🔁 Polymorphism	Used same method name (sound()) to behave differently across classes
+✨ Magic Methods	Used __str__ and __len__ to define custom behavior for print() and len()
+
+💻 What I Coded
+✔ Built real-world class examples like Dog, Car, BankAccount, and Book
+✔ Understood how inheritance, encapsulation, and polymorphism work in practice
+✔ Discovered how super() bridges parent-child class behavior
+✔ Explored Python’s magic methods for clean, readable objects
+
+🔥 Why This Matters
+OOP is critical for:
+
+Writing clean, modular, and maintainable code
+
+Building real-world applications like web backends, games, and even AI systems
+
+Thinking like a developer, not just a coder
+
+📂 File
+DAY6.py: Contains all OOP examples (no decorators yet – that's for Day 7!)
+
+Feel free to ⭐ the repo if you're learning with me or fork it and try out the code yourself!
+Let’s keep growing together. 🚀
