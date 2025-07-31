@@ -134,4 +134,30 @@ and / or / not	Make conditions smarter & realistic
 🎯 Why It Matters
 Without conditionals, your program is just a set of static instructions. With them? It becomes adaptive, reactive, intelligent.
 
-✅ Up next: Loops — making your code repeat with power.
+
+📘 Day 5 - Python Functions: From Basics to Advanced 🚀
+This repo covers all the important concepts of Python functions through easy-to-understand examples.
+
+🔸 What You Will Learn
+How to define and call a function
+
+Difference between print and return
+
+Use of default arguments
+
+Anonymous (lambda) functions
+
+Variable-length arguments: *args, **kwargs
+
+Local vs Global variable scope
+
+🧠 Concepts Covered in Python Functions
+🧩 Concept	🧪 Syntax Example	📝 Description
+Basic function	def greet():	Defines a simple function with no parameters.
+Parameters	def greet(name):	Adds input to make the function dynamic.
+Return	return value	Sends data back to the caller from the function.
+Default values	def greet(name="User"):	Uses fallback values when arguments aren’t passed.
+Lambda function	lambda x: x * 2	Defines a small, anonymous function in one line.
+*args	def total(*nums):	Accepts multiple positional arguments as a tuple.
+**kwargs	def info(**data):	Accepts multiple keyword arguments as a dictionary.
+Scope	global x	Refers to a variable outside the function (global scope).
