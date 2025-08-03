@@ -198,3 +198,46 @@ DAY6.py: Contains all OOP examples (no decorators yet – that's for Day 7!)
 
 Feel free to ⭐ the repo if you're learning with me or fork it and try out the code yourself!
 Let’s keep growing together. 🚀
+
+# 🔥 Day 7: Classmethods, Staticmethods & Decorators in Python
+
+Welcome to **Day 7** of my #100DaysOfPython journey!  
+Today we unlocked some powerful programming tools that make Python truly Pythonic.
+
+---
+
+## 🧠 Concepts Covered
+
+| Concept          | Description                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| @classmethod      | Used to create alternative constructors (e.g., `from_string`, `from_diameter`) |
+| @staticmethod     | Utility method that doesn’t depend on class or instance                     |
+| @decorator        | Custom function wrappers to enhance behavior of other functions             |
+| Chaining decorators | Nesting multiple decorators to combine behavior                          |
+| Factory Pattern   | Used `classmethod` to return pre-processed instances                        |
+
+---
+
+## 💡 Why It Matters
+
+- **Cleaner code**: You can write reusable logic without cluttering class behavior.
+- **Better APIs**: Factory methods make object creation intuitive.
+- **Decorator power**: You can enhance functions (logging, timing, auth checks) elegantly.
+
+---
+
+## 🧪 What I Did
+
+- Created classes using `@classmethod` to handle custom input formats  
+- Used `@staticmethod` for utility functions  
+- Wrote and chained my own custom decorators  
+- Practiced factory patterns using real-world analogies like `Student` and `Circle`  
+
+---
+
+📂 File:
+- `DAY7.py` – All code and examples are here!
+
+🎯 Learning never stops. These tools will make you feel like a Python wizard 🧙‍♂️  
+Let’s keep crushing this challenge!
+
